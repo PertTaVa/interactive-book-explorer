@@ -6,6 +6,9 @@
 
 An interactive tool for visualizing and analyzing Goodreads book data.
 
+**Live Demo:** [https://interactive-book-explorer-data-visulization.streamlit.app](https://interactive-book-explorer-data-visulization.streamlit.app)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://interactive-book-explorer-data-visulization.streamlit.app)
 ## ✨ Features
 
 - 🔍 **Search** by title and author
