@@ -16,7 +16,6 @@ An interactive tool for visualizing and analyzing Goodreads book data.
 - 📈 **Trend lines** (3 types: linear, logarithmic, polynomial)
 - 🏆 **Top authors** and top books
 - 📚 **Recommendation system** based on rating and popularity similarity
-- 🌙 **Light/Dark theme**
 - 🔄 **Reset all filters**
 
 ## 📊 Screenshots
