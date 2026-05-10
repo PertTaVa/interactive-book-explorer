@@ -20,7 +20,7 @@ An interactive tool for visualizing and analyzing Goodreads book data.
 
 | Overview Tab | Authors Tab | Book Explorer |
 |--------------|-------------|---------------|
-| ![Overview](screenshots/overview.png) | ![Authors](screenshots/authors.png) | ![Explorer](screenshots/explorer.png) |
+| ![Overview](overview.png) | ![Authors](authors.png) | ![Explorer](explorer.png) |
 
 ## 🚀 Quick Start
 
