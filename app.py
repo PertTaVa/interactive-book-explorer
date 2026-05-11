@@ -297,7 +297,7 @@ with tab1:
                 ))
         
         # ==================================================
-        # CHART SETTINGS (legend in the up-right corner)
+        # CHART SETTINGS (legend in the bottom-right corner)
         # ==================================================
         fig.update_layout(
             title="Book Ratings vs Popularity" + (" (with trend line)" if show_trendline else ""),
@@ -308,9 +308,9 @@ with tab1:
             hoverlabel=dict(bgcolor="white", font_size=12),
             legend=dict(
                 x=1.18,
-                y=0.90,
+                y=0.05,
                 xanchor='right',
-                yanchor='top',
+                yanchor='bottom',
                 bgcolor="rgba(255,255,255,0.8)",
                 bordercolor="lightgreen",
                 borderwidth=1,
