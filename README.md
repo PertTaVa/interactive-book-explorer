@@ -29,6 +29,6 @@ An interactive tool for visualizing and analyzing Goodreads book data.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/interactive-book-explorer.git
+git clone https://github.com/PertTaVa/interactive-book-explorer.git
 cd interactive-book-explorer
 ```
